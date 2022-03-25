@@ -3,3 +3,5 @@
 * [WebGL build](https://simmer.io/@Nussari/verkefni2)
 
 * [Windows build](https://www.dropbox.com/s/pxba6uaduzj54k6/WindowsBuild.zip?dl=1)
+
+* [Video](https://youtu.be/16vbW-TkqIk)
