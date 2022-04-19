@@ -6,9 +6,13 @@
 
 ### Downloads
 * [WebGL](https://simmer.io/@Nussari/verk3)
-* [Windows download](https://www.dropbox.com/s/fncu47kmsq7gzs8/windows_build.zip?dl=1)
+* [Windows](https://www.dropbox.com/s/fncu47kmsq7gzs8/windows_build.zip?dl=1)
 * [Assets](https://www.dropbox.com/s/j7gy6d77gp48gvu/assets.zip?dl=1)
 
 ### Myndband af leik
 
-* [Myndband]()
+* [Myndband](https://youtu.be/rrDe7IuMcME)
+
+### Skriftur
+
+* [Skriftur](https://github.com/Nussari/unity/tree/main/verk3/Scripts)
